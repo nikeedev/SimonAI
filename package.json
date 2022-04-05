@@ -1,0 +1,18 @@
+{
+  "name": "simonai",
+  "version": "1.0.0",
+  "description": "ianomis",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "simonai"
+  },
+  "author": "nikeedev",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.23"
+  }
+}

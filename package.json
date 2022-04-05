@@ -1,14 +1,14 @@
 {
   "name": "simonai",
   "version": "1.0.0",
-  "description": "ianomis",
+  "description": "SimonAI",
   "main": "index.js",
   "scripts": {
-    "test": "node ."
+    "start": "node ."
   },
   "repository": {
     "type": "git",
-    "url": "simonai"
+    "url": "https://github.com/nikeedev/simonai.git"
   },
   "author": "nikeedev",
   "license": "ISC",
